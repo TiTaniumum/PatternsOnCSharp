@@ -1,0 +1,15 @@
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\bin\Debug\net6.0\CompositePattern.exe
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\bin\Debug\net6.0\CompositePattern.deps.json
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\bin\Debug\net6.0\CompositePattern.runtimeconfig.json
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\bin\Debug\net6.0\CompositePattern.dll
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\bin\Debug\net6.0\CompositePattern.pdb
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.csproj.AssemblyReference.cache
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfo.cs
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.dll
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\refint\CompositePattern.dll
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.pdb
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\CompositePattern.genruntimeconfig.cache
+C:\Users\LEGION\Source\Repos\PatternsOnCSharp\Structural\CompositePattern\obj\Debug\net6.0\ref\CompositePattern.dll
